@@ -1,3 +1,4 @@
+//Created the class and constructor inside same class defining defineing properties
 class Question {
    late String questionText;
    late bool questionAnswers;
